@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blit8e
-- 👀 I’m interested in software and 3D-NFT art
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software
+- 🌱 I’m currently learning c++ and blueprint
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

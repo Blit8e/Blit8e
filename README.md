@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Blit8e
+- 👋 Hi, I’m Arda
 - 👀 I’m interested in software
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

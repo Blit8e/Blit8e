@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arda
 - 👀 I’m interested in software
-- 🌱 I’m currently learning Python
+- 🌱 I know Unity/C# and also I'm in learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
